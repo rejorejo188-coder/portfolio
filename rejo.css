@@ -1,0 +1,13 @@
+.hero {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.hero-image img {
+    width: 320px;
+    height: 320px;
+    border-radius: 50%;
+    border: 6px solid #00bcd4;
+    object-fit: cover;
+}
